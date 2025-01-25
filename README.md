@@ -1,24 +1,25 @@
 
+
 <!--Section 1: List 3-4 key projects-->
-## PROJECT 1: HOUSE PRICE PREDICTION USING LINEAR REGRESSION
+## Project 1: House Price Prediction Using Linear Regression
 
 This project aimed to predict house price using machine learning model i.e. linear regression with Flask as its framework.
 
 ![image](1 anietie etuk data analytics car project.jpeg)
 
-## PROJECT 2: DIABETES DISEASE DETECTION WITH FLASK
+## Project 2: Diabetes Detection With Flask
 
 This project aimed to predict house price using machine learning model i.e. linear regression with Flask as its framework.
 
 ![image](1 anietie etuk data analytics car project.jpeg)
 
-## PROJECT 3:CAT CALSSIFICATION USING TENSORFLOW 
+## Project 3: Cat Classification Using TensorFlow And Streamlit
 
 This project aimed to predict house price using machine learning model i.e. linear regression with Flask as its framework.
 
 ![image](1 anietie etuk data analytics car project.jpeg)
 
-# CONTACT DETAILS
+## Contact Details
 
 *Let’s connect and see how we can make a difference together!*
 <table>
