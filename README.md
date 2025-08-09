@@ -5,7 +5,7 @@
 
 This project aimed to predict house price using machine learning model i.e. linear regression with Flask as its framework.
 
-![image](‪C:\Users\user\Downloads\Maven Electronics\Dashboard picture.png)
+![image](‪Dashboard picture.png)
 
 ## Project 2: Diabetes Detection With Flask
 
