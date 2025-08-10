@@ -1,23 +1,23 @@
 
 
 <!--Section 1: List 3-4 key projects-->
-## Project 1: Sales Performance Dashboard
+## Sales Performance Dashboard
 
 ![image](Sales-Dashboard.png)
 
-## Project 2: Finance Dashboard
+## Finance Dashboard
 
 ![image](Finance-Dashboard.png)
 
-## Project 3: HR Dashboard
+## HR Dashboard
 
 ![image](HR-Dashboard.png)
 
-## Project 4: Customer Churn Dashboard
+## Customer Churn Dashboard
 
 ![image](Telco-Dashboard.png)
 
-## Project 5: Netflix Dashboard
+## Netflix Dashboard
 
 ![image](Netflix-dashboard.png)
 
@@ -46,7 +46,7 @@
     </tr>
     <tr>
       <td>🌐</td>
-      <td><a href="www.linkedin.com/in/nur-ezzati-nafisah">My LinkedIn Profile</a></td>
+      <td><a href="https://www.linkedin.com/in/nur-ezzati-nafisah/">My LinkedIn Profile</a></td>
     </tr>
   </tbody>
 </table>
