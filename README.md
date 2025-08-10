@@ -19,7 +19,7 @@
 
 ## Project 5: Netflix Dashboard
 
-![image](Netflix-Dashboard.png)
+![image](Netflix-dashboard.png)
 
 
 
@@ -30,27 +30,23 @@
   <tbody>
     <tr>
       <td>📧</td>
-      <td><a href="mailto:anietieetuk@gmail.com">anietieetuk@gmail.com</a></td>
+      <td><a href="mailto:nurezzatinafisah@gmail.com">nurezzatinafisah@gmail.com</a></td>
     </tr>
     <tr>
       <td>📞</td>
-      <td>(234) 816-763-7212</td>
+      <td>(601) 091-110-754</td>
     </tr>
     <tr>
       <td>📍</td>
-      <td>PH, Nigeria</td>
+      <td>Selangor</td>
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="https://etuk123456.github.io/portfolio1/docs/Profile.pdf">Download my CV</a></td>
+      <td><a href="Resume-Nur-Ezzati-Full.pdf">Download My Resume</a></td>
     </tr>
     <tr>
       <td>🌐</td>
-      <td><a href="https://linkedin.com/in/etukanietie">The things I do daily on LinkedIn</a></td>
-    </tr>
-    <tr>
-      <td>📺</td>
-      <td><a href="https://www.youtube.com/@LearnwithEtuk">Watch my tutorials on YouTube</a></td>
+      <td><a href="www.linkedin.com/in/nur-ezzati-nafisah">My LinkedIn Profile</a></td>
     </tr>
   </tbody>
 </table>
