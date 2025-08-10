@@ -1,23 +1,27 @@
 
 
 <!--Section 1: List 3-4 key projects-->
-## Project 1: House Price Prediction Using Linear Regression
+## Project 1: Sales Performance Dashboard
 
-This project aimed to predict house price using machine learning model i.e. linear regression with Flask as its framework.
+![image](Sales-Dashboard.png)
 
-![image](Dashboard-picture.png)
+## Project 2: Finance Dashboard
 
-## Project 2: Diabetes Detection With Flask
+![image](Finance-Dashboard.png)
 
-This project aimed to predict house price using machine learning model i.e. linear regression with Flask as its framework.
+## Project 3: HR Dashboard
 
-![image](1 anietie etuk data analytics car project.jpeg)
+![image](HR-Dashboard.png)
 
-## Project 3: Cat Classification Using TensorFlow And Streamlit
+## Project 4: Customer Churn Dashboard
 
-This project aimed to predict house price using machine learning model i.e. linear regression with Flask as its framework.
+![image](Telco-Dashboard.png)
 
-![image](1 anietie etuk data analytics car project.jpeg)
+## Project 5: Netflix Dashboard
+
+![image](Netflix-Dashboard.png)
+
+
 
 ## Contact Details
 
